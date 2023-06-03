@@ -177,7 +177,7 @@ footer{
     color: #ffffff;
 }
 
-@media (max-width:1030px) {
+@media (max-width:576px) {
     .container {
         flex-direction: column;
         justify-content: center;
